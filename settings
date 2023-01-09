@@ -21,6 +21,6 @@ _G.Settings = {
         ["Low Water Graphics"] = true, -- Removes Water Quality
         ["No Shadows"] = true, -- Remove Shadows
         ["Low Rendering"] = false, -- Lower Rendering
-        ["Low Quality Parts"] = true -- Lower quality parts
+        ["Low Quality Parts"] = false -- Lower quality parts
     }
 }
